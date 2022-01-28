@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "parcel README.md"
+    "start": "parcel index.html"
   },
   "devDependencies": {
-    "marked": "^0.8.0"
+    "marked": "^0.8.0",
+    "parcel": "^2.2.1",
+    "parcel-transformer-markdown": "^2.0.1"
   }
 }

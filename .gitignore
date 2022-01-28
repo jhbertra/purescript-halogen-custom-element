@@ -5,3 +5,5 @@ dist
 generated-docs
 output
 .psc-ide-port
+.parcel-cache
+node_modules
