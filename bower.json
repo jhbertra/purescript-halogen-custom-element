@@ -12,10 +12,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
     "output"
-  ],
-  "dependencies": {
-    "purescript-halogen": "^5.0.0-rc.7"
-  }
+  ]
 }
