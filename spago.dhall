@@ -11,7 +11,8 @@ When creating a new Spago project, you can use
 to generate this file without the comments in this block.
 -}
 { name = "halogen-custom-element"
-, dependencies = [ "console", "effect", "halogen", "prelude", "psci-support" ]
+, dependencies =
+  [ "aff", "effect", "halogen", "prelude", "psci-support", "web-html" ]
 , packages = ./packages.dhall
-, sources = [ "src/**/*.purs", "test/**/*.purs" ]
+, sources = [ "src/**/*.purs", "example/**/*.purs" ]
 }
