@@ -4,4 +4,4 @@ The following text is rendered by a Halogen component, run `yarn start` to see i
 
 <halogen-hello></halogen-hello>
 
-<script src="main.js"></script>
+<script type="module" src="main.js"></script>

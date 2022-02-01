@@ -1,3 +1,3 @@
-import Main from "./output/Main";
+import Main from "../output/Main";
 
 Main.main();

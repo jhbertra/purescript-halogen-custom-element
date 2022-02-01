@@ -1,8 +1,9 @@
 .cache
-bower_components
 dist
-node_modules
 
 .spago
 generated-docs
 output
+.psc-ide-port
+.parcel-cache
+node_modules
